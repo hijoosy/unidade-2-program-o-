@@ -62,7 +62,7 @@
     width: 120px;
     height: 90px;
     float: left;
-    border: solid 10px goldenrod;
+    border: solid 10px orange;
     margin: 0px 10px 20px 10px;
 
 }
@@ -72,4 +72,10 @@ body{
     background-attachment: fixed;
     background-size: 100%;
     background-position: bottom center;
+}
+h1{
+    background-image: url("../aula5/imagem/gradiente.png");
+    color: whitesmoke;
+    padding: 2px 10px;
+    margin: 20px 0px;
 }
